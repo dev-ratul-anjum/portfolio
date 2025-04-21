@@ -1,0 +1,35 @@
+.about {
+  padding: 6rem 0;
+}
+
+.about-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  margin-top: 3rem;
+}
+
+.about-image img {
+  width: 100%;
+  border-radius: 10px;
+  border: 4px solid var(--primary-color);
+}
+
+.about-text {
+  line-height: 1.8;
+}
+
+.about-text p {
+  margin-bottom: 1.5rem;
+  color: var(--text-secondary);
+}
+
+@media (max-width: 768px) {
+  .about-content {
+    grid-template-columns: 1fr;
+  }
+  
+  .about-image {
+    margin-bottom: 2rem;
+  }
+} 
