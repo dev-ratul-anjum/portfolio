@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 const projectsData = [
   {
     id: 1,
-    title: 'E-Commerce Platform',
+    title: 'Tech Mart E-Commerce Platform',
     description: 'A full-featured e-commerce platform with product catalog, shopping cart, user authentication, and payment integration.',
     image: '/projects/ecommerce.png',
     tags: ['React', 'Node.js', 'Express', 'MongoDB', 'Passport.js', 'SSLCOMMERZ'],
