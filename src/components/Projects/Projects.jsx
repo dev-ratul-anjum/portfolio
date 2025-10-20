@@ -7,7 +7,7 @@ const projectsData = [
     description: 'A full-featured e-commerce platform with product catalog, shopping cart, user authentication, and payment integration.',
     image: '/projects/ecommerce.png',
     tags: ['React', 'Node.js', 'Express', 'MongoDB', 'Passport.js', 'SSLCOMMERZ'],
-    demoLink: 'https://techmart-bd.onrender.com',
+    demoLink: 'https://www.techmart.com.bd',
     codeLink: 'https://github.com/dev-ratul-anjum/techmart'
   },
   {
